@@ -1,8 +1,7 @@
-# John Cardozo
+# Leonardo Martinez
 
 Mis hobbies son:
 
-- Running
+- Hiking
 - Programming
-- Blender
-- Taekwondo
+- Baloncesto
